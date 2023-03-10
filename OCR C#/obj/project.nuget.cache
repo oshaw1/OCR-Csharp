@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "syGnt0LpwjS8WT/GBO4zLpmSVs7nckp/O+ao9iws/4RPJTP6bKS8UosoqCMT7ILedOK5tCX0/1KjxUAR0L4IVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owent\\Desktop\\OCR C#\\OCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owent\\.nuget\\packages\\aspose.drawing.common\\23.3.0\\aspose.drawing.common.23.3.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\ironocr\\2023.3.2\\ironocr.2023.3.2.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\ironsoftware.system.drawing\\2023.2.2\\ironsoftware.system.drawing.2023.2.2.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\owent\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
