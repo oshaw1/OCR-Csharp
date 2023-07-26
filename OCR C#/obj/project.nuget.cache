@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "syGnt0LpwjS8WT/GBO4zLpmSVs7nckp/O+ao9iws/4RPJTP6bKS8UosoqCMT7ILedOK5tCX0/1KjxUAR0L4IVg==",
+  "dgSpecHash": "4AxggeC+6gLTd2LK58cRkdulOBqRVAf7PolmvwoReBJxbBnNpc5Ji34eRkLzpEcG8+9pbLt+3NfzDl7kDFR+ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owent\\Desktop\\OCR C#\\OCR.csproj",
+  "projectFilePath": "C:\\Users\\owent\\Desktop\\OCR-Csharp\\OCR C#\\OCR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owent\\.nuget\\packages\\aspose.drawing.common\\23.3.0\\aspose.drawing.common.23.3.0.nupkg.sha512",
     "C:\\Users\\owent\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",

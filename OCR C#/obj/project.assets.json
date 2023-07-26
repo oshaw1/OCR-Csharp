@@ -707,11 +707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owent\\Desktop\\OCR C#\\OCR.csproj",
+      "projectUniqueName": "C:\\Users\\owent\\Desktop\\OCR-Csharp\\OCR C#\\OCR.csproj",
       "projectName": "OCR",
-      "projectPath": "C:\\Users\\owent\\Desktop\\OCR C#\\OCR.csproj",
+      "projectPath": "C:\\Users\\owent\\Desktop\\OCR-Csharp\\OCR C#\\OCR.csproj",
       "packagesPath": "C:\\Users\\owent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owent\\Desktop\\OCR C#\\obj\\",
+      "outputPath": "C:\\Users\\owent\\Desktop\\OCR-Csharp\\OCR C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owent\\AppData\\Roaming\\NuGet\\NuGet.Config"
